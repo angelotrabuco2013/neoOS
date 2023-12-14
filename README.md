@@ -1,3 +1,5 @@
+> Please note: GH Pages are disabled, as i have to modify/replace the files to have my OSes branding & functionality.
+
 <div align="center">
 
 # **neoOS**
