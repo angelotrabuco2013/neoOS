@@ -1,4 +1,4 @@
-> Please note: GH Pages are disabled, as i have to modify/replace the files to have my OSes branding & functionality.
+> Please note: GH Pages are disabled, as i have to modify/replace the files to have my OSes branding & functionality. Thank you. - angelotrabuco2013
 
 <div align="center">
 
